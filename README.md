@@ -21,9 +21,14 @@ Busco aplicar mis habilidades en **Python** y **SQL** para crear soluciones inno
 
 ---
 
-### 📂 Mis Repositorios
+### 📂 Mis proyectos
 
-Aquí se muestra una lista actualizada de mis repositorios activos, gracias a GitHub Actions.
+* [Predictor de Vuelos de Aerolíneas](https://github.com/Onigp/proyecto_copa) - Este proyecto es una aplicación web interactiva desarrollada con Streamlit y scikit-learn que predice el número de pasajeros y el factor de ocupación de una ruta de vuelo específica, basándose en datos históricos de aerolíneas de EE. UU.
+* [Clasificador de Desechos del Hogar](https://github.com/Onigp/waste-detection-system) - Aplicación web desarrollada con Python, Streamlit y YOLO para la clasificación automática de residuos domésticos, con registro histórico y estadísticas dinámicas.
+* [Escáner Básico de Seguridad Web](https://github.com/Onigp/vulnescan) - herramienta sencilla y eficiente diseñada para auditar la configuración de seguridad básica de una aplicación web. Se especializa en la detección de cabeceras HTTP faltantes y la exposición de archivos sensibles, proporcionando un dashboard interactivo a través de Streamlit.
+
+
+...
 
 ---
 
