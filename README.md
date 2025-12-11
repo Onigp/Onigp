@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 ¡Hola! Soy Gino Portacio
+  # ¡Hola! Soy Gino Portacio
   ### Profesional de IT ⚙️ | Desarrollador de Soluciones y Bases de Datos
 
   <p>
