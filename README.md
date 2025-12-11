@@ -19,7 +19,7 @@
 
 ## 🎯 Sobre Mí
 
-Soy un **Profesional de IT** con experiencia en el **desarrollo de software** y la **administración de bases de datos**. Mi enfoque es crear soluciones robustas para optimizar procesos de negocio. Actualmente utilizo **Oracle APEX** para el desarrollo de herramientas críticas (ERP). Busco expandir la aplicación de mis habilidades en **Python** y **SQL** para proyectos innovadores de Análisis de Datos y Desarrollo Web.
+Soy un **Profesional de IT** con experiencia en el **desarrollo de software** y la **administración de bases de datos**. Mi enfoque es crear soluciones robustas para optimizar procesos de negocio. Actualmente utilizo **Oracle APEX** para el desarrollo de herramientas críticas (ERP). Busco expandir la aplicación de mis habilidades en **Python** y **SQL** para proyectos innovadores de Análisis de Datos y Desarrollo de Sistemas.
 
 
 ### Lenguajes y Frameworks
