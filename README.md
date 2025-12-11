@@ -1,8 +1,9 @@
 <div align="center">
   
   # 👋 ¡Hola! Soy Gino Portacio
-  
-<p>
+  ### Profesional de IT ⚙️ | Desarrollador de Soluciones y Bases de Datos
+
+  <p>
     <a href="https://www.linkedin.com/in/gino-portacio-46411523a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -10,8 +11,6 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </p>
-
-  ### Profesional de IT ⚙️ | Desarrollador de Soluciones y Bases de Datos
   
 </div>
 
