@@ -31,7 +31,6 @@ Soy un **Profesional de IT** con experiencia en el **desarrollo de software** y 
   <img src="https://img.shields.io/badge/Matplotlib-0078FF?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
 </p>
 
 ### Bases de Datos y Herramientas
