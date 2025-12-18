@@ -55,7 +55,7 @@ Proyectos que demuestran mi capacidad en Data Science, Desarrollo Web y Ciberseg
 | Proyecto | Tecnologías Clave | Descripción |
 | :--- | :--- | :--- |
 | **[Predictor de Vuelos de Aerolíneas](https://github.com/Onigp/proyecto_copa)** ✈️ | Python, Streamlit, Scikit-learn | Aplicación web interactiva que predice el número de pasajeros y el factor de ocupación de una ruta de vuelo. |
-| **[Clasificador de Desechos](https://github.com/Onigp/waste-detection-system)** ♻️ | Python, Streamlit, YOLO | Sistema de clasificación automática de residuos domésticos con registro histórico y estadísticas dinámicas. |
+| **[Clasificador de Desechos](https://github.com/Onigp/Sistema-de-Gesti-n-de-Residuos)** ♻️ | Python, Streamlit, YOLO | Sistema de clasificación automática de residuos domésticos con registro histórico y estadísticas dinámicas. |
 | **[Escáner de Seguridad Web](https://github.com/Onigp/vulnescan)** 🛡️ | Python, Streamlit | Herramienta para auditar la configuración de seguridad básica (detección de cabeceras HTTP y archivos sensibles). |
 
 
