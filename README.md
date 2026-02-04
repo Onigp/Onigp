@@ -64,7 +64,7 @@ Proyectos que demuestran mi capacidad en Data Science, Desarrollo Web y Ciberseg
 ## 🤝 Comunidad y Voluntariado
 
 * **Python Panamá:** 🐍 Participo en eventos, meetups y talleres que promover el lenguaje Python.
-* **Tech Horizons:** 멘토 Colaboro en la mentoría de estudiantes y jóvenes profesionales en tecnología.
+* **Tech Horizons:** 멘토 Colabore en la mentoría de estudiantes y jóvenes profesionales en tecnología.
 
 ---
 
